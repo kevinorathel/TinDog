@@ -27,11 +27,6 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
-/*
-#pricing{
-    background-color: #FF4C68;
-}  */
-
 
 /* Navigation Bar */
 
@@ -122,13 +117,6 @@ body{
 .testiomonial{
     border-radius: 100%;
     width: 20%;
-    margin: 20px;
-}
-
-.carlo-testiomonial{
-    border-radius: 100%;
-    height: 280px;
-    width: 21%;
     margin: 20px;
 }
 

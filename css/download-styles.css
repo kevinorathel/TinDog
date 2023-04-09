@@ -27,3 +27,33 @@ p{
 .contact-me{
     text-align: center;
 }
+
+#title{
+    background-color: #FF4C68;
+}
+
+.container-fluid{
+    padding: 3% 15% 0%;
+    margin-bottom: 150px;
+    background-color: #FF4C68;
+}
+
+.navbar{
+    padding: 0 0 4.5rem; 
+}
+
+#branding{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;  
+}
+
+.nav-item{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.nav-link{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+}

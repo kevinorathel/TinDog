@@ -135,3 +135,33 @@ body{
     height: 800px;
     padding: 7% 15%;
 }
+
+/* Pricing */
+
+#pricing{
+    padding-bottom: 120px;
+}
+
+.card{
+    text-align: center;
+    padding-bottom: 1.5rem;
+    margin: 0 20px;
+
+}
+
+.pricing-txt{
+    margin: 140px 0 120px;
+    text-align: center;
+}
+
+.pricing-col{
+    padding: 3% 2%;
+}
+
+#plan{
+    color: black;
+}
+
+.non-mastiff{
+    margin-top: 25px;
+}

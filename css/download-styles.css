@@ -9,6 +9,11 @@ h1{
     padding: 20px;
 }
 
+h2{
+    margin: 50px;
+    font-weight: bold;
+}
+
 h3{
      font-size: 30px;
      font-family: 'Montserrat', sans-serif;
@@ -21,6 +26,7 @@ p{
 }
 
 .bottom-container{
+    margin-top: 2rem;
     text-align: center;
 }
 
@@ -31,6 +37,8 @@ p{
 #title{
     background-color: #FF4C68;
 }
+
+/* Navigation Bar */
 
 .container-fluid{
     padding: 3% 15% 0%;
@@ -56,4 +64,12 @@ p{
 .nav-link{
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
+}
+
+/* Contact Content */
+
+.summary{
+    margin-top: 2rem;
+    line-break: 3;
+    text-align: center;
 }

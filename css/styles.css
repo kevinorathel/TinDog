@@ -59,7 +59,8 @@ body{
 
 .dog-phone{
     width: 60%;
-    margin: 0 0;
+    left: 20%;
+    margin-top: 10%;
     transform: rotate(25deg);
     object-fit: scale-down;
     position: relative;

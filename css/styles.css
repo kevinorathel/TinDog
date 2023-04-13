@@ -93,13 +93,13 @@ body{
     margin-top: 4.5rem;
 }
 
-.fa-solid{
+.icons{
     color: #EF8172;
     font-size: 7rem;
     margin-bottom: 5rem;
 }
 
-.fa-solid:hover{
+.icons:hover{
     color: #FF4C68;
     font-size: 7rem;
     margin-bottom: 5rem;
@@ -167,4 +167,56 @@ body{
 
 .non-mastiff{
     margin-top: 25px;
+}
+
+/* Call To Action */
+
+#cta{
+    background-color: #FF4C68;
+    font-size: 3.5rem;
+    color: white;
+    text-align: center;
+    padding: 10%;
+}
+
+#tru-lov{
+    font-size: 4rem;
+    line-height: 1.5;
+    margin-bottom: 5%;
+}
+
+/* Footer */
+
+#footer{
+    padding-top: 10%;
+    padding-bottom: 2%;
+    text-align: center;
+}
+
+.footer-icons{
+    margin: 0 5px;
+    color: black;
+}
+
+.copyright{
+    color: gray ;
+    font-size: medium;
+    margin-top: 1rem;
+}
+
+/* Media Queries */
+
+@media (max-width: 1028px){
+
+    .initial-caption{
+        text-align: center;
+    }
+
+    .dog-phone{
+        visibility: hidden; 
+    }
+
+    .download-button{
+        margin-top: 7rem;
+    }
 }

@@ -1,15 +1,5 @@
-h1{
-    font-family: 'Montserrat';
-    font-size: 3.5rem;
-    color: white;
-    line-height: 1.5;
-}
-
-h2{
-    font-family: 'Montserrat';
-    font-size: 3.5rem;
-    color: white;
-    line-height: 1.5;
+body{
+    font-family: 'Montserrat', sans-serif;
 }
 
 h3{
@@ -23,10 +13,14 @@ p{
     line-height: 2;
 }
 
-body{
-    font-family: 'Montserrat', sans-serif;
-}
+/* Heading */
 
+.heading{
+    font-family: 'Montserrat';
+    font-size: 3.5rem;
+    color: white;
+    line-height: 1.5;
+}
 
 /* Navigation Bar */
 
@@ -79,7 +73,7 @@ body{
     margin-right: 1.5rem;
 }
 
-/* Features Section */
+/* Features */
 
 #features{
     background-color: white;
@@ -109,7 +103,7 @@ body{
     margin-top: 0 15;
 }
 
-/* Testimonials Section */
+/* Testimonials */
 
 #testimonials{
     background-color: #EF8172;

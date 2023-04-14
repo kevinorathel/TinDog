@@ -73,3 +73,14 @@ p{
     line-break: 3;
     text-align: center;
 }
+
+.footer-icons{
+    margin: 0 5px;
+    color: #4F4557;
+}
+
+.copyright{
+    color: gray ;
+    font-size: medium;
+    margin-top: 1rem;
+}
